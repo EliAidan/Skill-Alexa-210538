@@ -95,5 +95,5 @@ const WeatherIntentHandler = {
 ## **Evidencias**
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <img src="./img/result/Evidencia.png?raw=true" alt="img1" width="700">
+    <img src="./img/result/Evidencia.png?raw=true" alt="img1" width="900">
 </div>
